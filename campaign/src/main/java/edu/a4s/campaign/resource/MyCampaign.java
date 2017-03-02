@@ -14,6 +14,7 @@ import edu.a4s.campaign.model.AdCampaign;
 import edu.a4s.campaign.service.CampaignServiceImpl;
 
 /**
+ * This is the Main Resource
  * Root resource (exposed at "ad" path)
  */
 @Path("ad")
